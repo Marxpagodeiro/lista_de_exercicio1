@@ -1,0 +1,4 @@
+D=float(input("informe o valor em dolar "))
+con= 3.12
+R= D*con
+print(" O valor em real é", R)
