@@ -1,0 +1,6 @@
+preco_maca=1.30#preço por unidade
+preco_banana=5#preço por kilo
+m=float(input("Qual é a quantidade de maças? "))
+b=float(input("Qual a quantidade em kilo da bananas? "))
+total_compras= (m*preco_maca)+(b*preco_banana)
+print("o custo total das compras é ", total_compras)
