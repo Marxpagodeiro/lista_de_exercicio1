@@ -1,0 +1,8 @@
+AP=float(input("Qual a altura da parede? "))
+LP=float(input("Qual a largura da parede? "))
+AA=float(input("Qual a altura da azulejo? "))
+LA=float(input("Qual a largura da azulejo? "))
+areaP= AP*LP
+areaA= AA*LA
+QuantAzu= areaP//areaA
+print("A quantidade de azulejos usados vai ser de ",QuantAzu)
