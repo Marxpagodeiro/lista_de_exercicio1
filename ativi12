@@ -1,4 +1,4 @@
-carros_vendidos=float(input("Qual o numero de carros vendidos pela funcionaria? "))
+carros_vendidos=float(input("Qual o numero de carros vendidos pela funcionaria? "))#
 valor_vendas=float(input("Qual o valor total de vendas da  funcionaria? "))
 salario_fixo=float(input("Qual o salario fixo da funcionaria? "))
 comissão=float(input("Qual o valor da comissão recebida pela funcionaria? "))
