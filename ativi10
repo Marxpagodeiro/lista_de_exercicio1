@@ -1,0 +1,5 @@
+id_anos=float(input("digite respectivamente sua idade em anos,messes e dias: "))
+id_meses=float(input(" "))
+id_dias=float(input(" "))
+total=(id_anos*365)+(id_meses*30)+id_dias
+print("Sua idade em dias é ",total)
