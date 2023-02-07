@@ -1,0 +1,5 @@
+p1=float(input("Qual a nota da primeira avaliação? "))
+p2=float(input("Qual a nota da segunda avaliação? "))
+ativ=float(input("Qual a nota das atividades realizadas em sala? "))
+med=(4*p1+3*p2+2*ativ)/9
+print("A medias das notas desse aluna é ", med)
